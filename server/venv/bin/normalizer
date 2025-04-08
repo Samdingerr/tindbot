@@ -1,4 +1,4 @@
-#!/Users/samdinger/Desktop/Tind/tindbot-platform-v1/server/venv/bin/python3
+#!/Users/samdinger/Desktop/tindbot/server/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
